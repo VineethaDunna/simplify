@@ -1,4 +1,4 @@
-# React Assignment 2 - User Directory
+# Simplify company React Assignment - User Directory
 
 **Live URL:** [https://simplify-assignment.vercel.app/](https://simplify-assignment.vercel.app/)
 
